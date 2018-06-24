@@ -1,4 +1,4 @@
-``java
+``c++
 #include <cstdio>
 #include <iostream>
 #include <cstring>
