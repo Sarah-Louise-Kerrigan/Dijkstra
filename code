@@ -1,3 +1,4 @@
+```cpp
 #include <cstdio>
 #include <iostream>
 #include <cstring>
@@ -69,3 +70,4 @@ int main(){
     print();
     return 0;
 }
+```
